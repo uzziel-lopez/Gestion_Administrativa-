@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+storage/state.json
+storage/batches/*
+!storage/batches/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store
