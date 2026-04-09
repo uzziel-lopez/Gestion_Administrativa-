@@ -142,6 +142,20 @@ Subrogados-y-Besa/
 - Chat y colaboracion operativa
 - Auditoria y bitacora de cambios
 
+## Evidencia visual del sistema real (privado)
+
+Las siguientes capturas corresponden al entorno real privado:
+
+![Login Admin](IMG/Login_Admin.png)
+![Login Proveedores](IMG/Login_Proovedores.png)
+![Login Subrogados](IMG/Login_Subrogados.png)
+![Pestana BESA](IMG/Pestaña_Besa.png)
+![Modal API BESA](IMG/Modal_Api_Besa.png)
+![Modal Detalle BESA](IMG/Modal_Detalle_Besa.png)
+![Catalogo de Servicios](IMG/Cata_Servicios.png)
+![Revision de Facturas](IMG/Admin_Rev_Facturas.png)
+![Repositorio Privado](IMG/Github_Proyecto_Real.png)
+
 ## Consideraciones de privacidad
 
 - No contiene credenciales productivas
